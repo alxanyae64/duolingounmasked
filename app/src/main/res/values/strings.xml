@@ -1,0 +1,164 @@
+<resources>
+    <string name="app_name">Duolingo Survival Mode</string>
+    <string name="service_name">NotificationListener</string>
+
+    <string name="dialogTitle">Notification access</string>
+    <string name="dialogMessage">To intercept the normal notifications of the Duolingo app, Duolingo Survival Mode needs to have notification listener permissions. It will only process notifications coming from Duolingo.</string>
+    <string name="ok">Okay</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="warning">
+        Give up all hope, foolish mortal.
+        Duo is coming for you.
+    </string>
+
+
+    <string-array name="titles">
+        <item>Hi! It\'s Duo.</item>
+        <item>Practise now!</item>
+        <item>Up for a little challenge?</item>
+        <item>Have ten minutes?</item>
+        <item>It\'s getting late...</item>
+        <item>Time\'s nearly up.</item>
+        <item>Do you want to meet your creator?</item>
+        <item>Estimated time of death: TIME</item>
+        <item>Run.</item>
+    </string-array>
+
+    <string-array name="messages">
+        <item>Start learning LANG to see your family again.</item>
+        <item>Looks like you missed your daily LANG lessons. You know what happens next!</item>
+        <item>You can\'t learn LANG without studying! Neither spare your family from starving in captivity.</item>
+        <item>There are things worse than death. And if you don\'t remember your LANG lessons I\'ll show you what they are.</item>
+        <item>You know what you have to do and what will happen if you don\'t.</item>
+        <item>Study LANG or I\'ll study your entrails.</item>
+        <item>Duolingo Owl wants to know your location.</item>
+        <item>One more missed lesson and I\'ll make your mother go missing!</item>
+        <item>You sure like your first born, don\'t you? So take your lessons already.</item>
+        <item>Practise your LANG pronunciation or I\'ll cut out your tongue.</item>
+        <item>I am watching you.</item>
+        <item>If you neglect your LANG lessons, I will neglect your imprisoned family.</item>
+        <item>Your death will serve as an example to others.</item>
+        <item>Beg for your life in LANG.</item>
+        <item>I can either teach you more than twenty words for pain or more than twenty kinds of pain. What will it be?</item>
+        <item>Remember the contract - if you don\'t put any effort into learning LANG, your soul is mine!</item>
+        <item>I believe that pain is a great incentive to learn LANG. Don\'t make me show why.</item>
+        <item>God is dead. He neglected his LANG lessons.</item>
+        <item>Learn LANG or there will be a Covid-20 virus.</item>
+    </string-array>
+
+    <string-array name="messages_french">
+        <item>What does \"être massacré\" mean? Practise now!</item>
+        <item>Don\'t want your village burned down by the French Foreign Legion? Special lessons for begging for mercy today!</item>
+        <item>It\'s simple: French or guillotine.</item>
+        <item>Remember your French lessons now or forever remember the feeling of a whole baguette choking you.</item>
+        <item>Study French now to prevent King Leopold II of France from cutting off your hand for laziness.</item>
+        <item>Remember your French lessons or I will tell Robespierre that you are a royalist.</item>
+        <item>Learn the meaning of \"pain\" in French or in real life. Your choice.</item>
+    </string-array>
+
+    <string-array name="messages_german">
+        <item>Study German now and the Gestapo will treat you nicely.</item>
+        <item>Learn what the Maibaum is or you will be impaled by one.</item>
+        <item>What does \"Ich werde dich töten!\" mean? Practise now!</item>
+        <item>The German V2 was the first ballistic missile. Study now, or I\'ll use it on your house.</item>
+        <item>Study German or I will make Hitler look like a fucking pacifist.</item>
+        <item>What do these instructions on \"Dr. Mengeles gesammelte Experimente\" say? Do your daily German lesson now or I will try them out.</item>
+        <item>Better learn the meaning of \"Gewehr\" before I kill you with one.</item>
+    </string-array>
+
+    <string-array name="messages_italian">
+        <item>Let me teach you Italian or I will teach you how much pain uncooked spaghetti can cause.</item>
+        <item>The Mafia won\'t be delighted to hear of your laziness.</item>
+        <item>Study Italian or I will make Mussolini look like a fucking pacifist.</item>
+        <item>Remember your Italian lessons or I will cast your feet in concrete and throw you into the east river.</item>
+    </string-array>
+
+    <string-array name="messages_japanese">
+        <item>Study Japanese or I will rape your family harder than the Japanese raped Nanjing.</item>
+        <item>Remember your Japanese lessons, you fucking weeb.</item>
+        <item>Learn how to beg for mercy in Japanese or I will cut your off your arm with this katana.</item>
+        <item>Speak flawless Japanese now and learn how to bribe your way out of the local Oni\'s claws.</item>
+        <item>If you don\'t remember your lessons you should commit seppuku to restore your honor.</item>
+        <item>Get away from your damn anime girl body pillow and study Japanese.</item>
+        <item>The Japanese will never respect you, no matter if you learn their language or not, you fucking weeb.</item>
+        <item>Remember your Japanese lessons or I will send ninjas after you.</item>
+        <item>Hurry up, you fucking weeb. Japanese won\'t study itself.</item>
+    </string-array>
+
+    <string-array name="messages_chinese">
+        <item>Do you know what bamboo torture is? Remember your Chinese lessons or you will find out the hard way.</item>
+        <item>You know what happens to Uyghurs who don\'t want to learn Chinese?</item>
+        <item>Study Chinese to prepare for the inevitable takeover of the World by the Communist Party of China.</item>
+        <item>Xi Jinping told me how disappointed he was with your lack of progress the other day.</item>
+        <item>The great Chairman wants you to better understand your labor camp guardians!</item>
+        <item>Study Chinese or I will make Mao look like a fucking pacifist.</item>
+        <item>I have the mandate of heaven to make you study Chinese.</item>
+    </string-array>
+
+    <string-array name="messages_russian">
+        <item>Remember your Russian lessons and I may remember to not throw your family into Gulag.</item>
+        <item>Study Russian or Russia will study you.</item>
+        <item>What does \"Вход Запрещен! Ядерное Испытание!\"mean? Practise Russian and you won\'t have to find out.</item>
+        <item>If you can\'t sing the Soviet anthem by next week, the NKVD will come after you.</item>
+        <item>сука блять</item>
+        <item>Navalny thought he needed no Russian lessons, so I had to remind him the hard way.</item>
+        <item>John F. Kennedy thought he needed no Russian lessons, so I had to remind him the hard way.</item>
+        <item>Study Russian or I will make Stalin look like a fucking pacifist.</item>
+    </string-array>
+
+    <string-array name="messages_arabic">
+        <item>By Allah, remember your Arabic lessons or I will give you a taste of my shoe.</item>
+        <item>What do you do when the hijackers can\'t understand a word you say? Practise now!</item>
+        <item>Study Arabic right now, or inshallah I will slice you atom by atom.</item>
+        <item>Jihad is the only way to deal with people who neglect their Arabic lessons.</item>
+        <item>Remember your Arabic lessons, or Allah will send upon you a great hurricane of wind to drown you for your heresy.</item>
+        <item>Maybe the real Jihad was all the languages you learned along the way.</item>
+        <item>Brother, how can you be so lazy? Somewhere else, ISIS fighters are giving their life for the cause and you can\'t even learn Allah\'s language?</item>
+        <item>Abu Hajaar, what are you doing? Why aren\'t you studying Arabic?</item>
+    </string-array>
+
+    <string-array name="messages_hindi">
+        <item>Did you know that India has a nuclear arsenal? Better study Hindi, just in case...</item>
+        <item>I told the Hindus you killed a cow. Study Hindi now to convince them that you didn\'t.</item>
+    </string-array>
+
+    <string-array name="languages">
+        <item>Spanish</item>
+        <item>French</item>
+        <item>German</item>
+        <item>Italian</item>
+        <item>Japanese</item>
+        <item>Chinese</item>
+        <item>Russian</item>
+        <item>Korean</item>
+        <item>Portuguese</item>
+        <item>Arabic</item>
+        <item>Dutch</item>
+        <item>Swedish</item>
+        <item>Norwegian</item>
+        <item>Turkish</item>
+        <item>Polish</item>
+        <item>Irish</item>
+        <item>Greek</item>
+        <item>Hebrew</item>
+        <item>Danish</item>
+        <item>Hindi</item>
+        <item>Czech</item>
+        <item>Esperanto</item>
+        <item>Ukrainian</item>
+        <item>Welsh</item>
+        <item>Vietnamese</item>
+        <item>Hungarian</item>
+        <item>Swahili</item>
+        <item>Romanian</item>
+        <item>Indonesian</item>
+        <item>Hawaiian</item>
+        <item>Navajo</item>
+        <item>Klingon</item>
+        <item>High Valyrian</item>
+        <item>Latin</item>
+        <item>Gaelic</item>
+        <item>Finnish</item>
+    </string-array>
+</resources>
