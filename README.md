@@ -2,7 +2,7 @@
 
 Have you ever wanted Duo to threaten you, just like in the memes? Duolingo Survival Mode intercepts all Duolingo notifications and replaces them with some spiced up messages.
 
-Download: [duolingounmasked_v1.0.apk](https://github.com/mondior71/duolingounleashed/blob/master/duolingounmasked_v1.0.apk?raw=true)
+Download: [duolingounmasked_v1.0.apk](https://github.com/alxanyae64/duolingounmasked/blob/main/duolingounmasked_v1.0.apk?raw=true)
 
 > You can't learn French without studying! Neither spare your family from starving in captivity.
 
